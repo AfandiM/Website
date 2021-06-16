@@ -1,0 +1,4 @@
+person person1@hotmail.com person1password user
+jimmy jimmy@mail.com jimmybest user
+person2 person2@live.ca person2password user
+admin admin@gmail.com secretcode admin
